@@ -1,0 +1,45 @@
+/*AUMENTO DE TAMANO MODAL EN PRODUCTOS  PARA PONER FORMULARIO E IMAGEN*/
+  
+     .tamanoModal{
+
+       width:70%;
+     }
+
+
+   /*pone el numero y titulo en color blanco del home*/
+  .panel_modulos a, .panel_modulos a:hover, .panel_modulos a:focus, .panel_modulos a:active{
+
+   color:white;
+   
+   }
+
+
+    /*barra de progreso*/
+    .progress-xs {
+    height: 22px;
+     }
+   
+   /*tamano del porcentaje en la barra de progreso*/
+   .progress-bar{
+
+      font-size:100%;
+      font-weight: bold;
+   }
+
+
+
+    
+    .rojo{
+
+       border-color:#a94442;
+
+    }
+
+
+    /*oculta boton enviar si la cantidad seleccionada es mayor al stock*/
+    
+    .oculta_boton{
+
+       display:none;
+    }
+
